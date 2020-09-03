@@ -1,0 +1,2 @@
+# NITG-Supported-Shaders
+yes
