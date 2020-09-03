@@ -1,2 +1,2 @@
 # NITG-Supported-Shaders
-yes
+(awaiting...)
